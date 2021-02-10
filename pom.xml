@@ -20,7 +20,7 @@
 
   <developers>
     <developer>
-      <name>Tapio Rautonen</name>
+      <name>Benoit Lacelle</name>
     </developer>
   </developers>
 
@@ -33,9 +33,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:git://github.com/trautonen/coveralls-maven-plugin.git</connection>
-    <developerConnection>scm:git:git://github.com/trautonen/coveralls-maven-plugin.git</developerConnection>
-    <url>https://github.com/trautonen/coveralls-maven-plugin</url>
+    <connection>scm:git:git://github.com/solven-eu/coveralls-maven-plugin.git</connection>
+    <developerConnection>scm:git:git://github.com/solven-eu/coveralls-maven-plugin.git</developerConnection>
+    <url>https://github.com/solven-eu/coveralls-maven-plugin</url>
   </scm>
 
   <properties>
